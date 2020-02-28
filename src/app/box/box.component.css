@@ -1,0 +1,40 @@
+.box1{
+   height: 250px;
+   width: 200px;
+   padding: 5px;
+   margin: 10px;
+   border: 3px solid rgb(46, 70, 46);
+   background-color:rgb(213, 230, 230);
+   color: darkcyan;
+   float: left;
+}
+
+.box2{
+   height: 250px;
+   width: 200px;
+   padding: 5px;
+   margin: 10px;
+   border: 3px solid rgb(46, 70, 46);
+   background-color:rgb(24, 145, 145);
+   color: rgb(29, 34, 34);
+   float: left;
+}
+
+.themes
+{
+   overflow: hidden;
+   background-color: rgb(60, 63, 60);
+   padding: 10px;
+}
+
+.circle{
+   height: 16px;
+   width : 10px;
+   padding: 5px;
+   border-radius: 10px;
+   background-color: yellow;
+   float:left;
+   margin-right: 10px;
+   border: 2px solid gray;
+   cursor: pointer;
+}
